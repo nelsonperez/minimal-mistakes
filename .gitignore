@@ -2,7 +2,13 @@
 *.sublime-project
 *.sublime-workspace
 .bundle
-*.idea
+node_modules/*
+dist/*
+typings/*
+*.log
+.idea/*
+.vscode/*
+/package-lock.json
 .DS_Store
 .jekyll-metadata
 .sass-cache
